@@ -1,6 +1,6 @@
-# Snake – Python (turtle)
+# Juego Serpiente – Python Biblioteca (turtle)
 
-Clásico **Snake** hecho en **Python** usando el módulo estándar **turtle**.  
+Clásico **Juego Serpiente** hecho en **Python** usando el módulo estándar **turtle**.  
 Incluye marcador en pantalla, récord máximo, detección de colisiones y crecimiento de la serpiente al comer.
 
 
